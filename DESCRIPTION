@@ -1,0 +1,12 @@
+Package: signalingdata2018
+Title: Depression Signaling Experiment 2018
+Version: 0.0.2
+Authors@R: person("Michael", "Gaffney", email = "michael.gaffney2@wsu.edu", role = c("aut", "cre"))
+Description: Experiment for MA.
+Depends: R (>= 3.0)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+URL: https://github.com/michaelrgaffney/signalingdata2018
+BugReports: https://github.com/michaelrgaffney/signalingdata2018/issues
